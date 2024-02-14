@@ -1,5 +1,5 @@
 # Pass_Gen_Mobile
- This is a Flutter app that generates passwords. it will not run at the moment since some private files and implementations are missing from this repository.
+ This is a Flutter app that generates passwords. it will not run at the moment since some private files and implementations are missing from this repository. So instead i've added these screenshots of the app.
 
 <img src="https://github.com/Niko12126-aka-BIERNE/Pass_Gen_Mobile/assets/64725654/89d0e8e4-b72c-4c19-880c-fd5330db2c3f" width="350"/>
 
